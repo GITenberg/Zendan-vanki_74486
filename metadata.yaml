@@ -1,0 +1,38 @@
+_repo: Zendan-vanki_74486
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_issued: '2024-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74486'
+language: fi
+pgterms:marc905: 20240920005013hope
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zendan vanki
+url: http://www.gutenberg.org/ebooks/74486
