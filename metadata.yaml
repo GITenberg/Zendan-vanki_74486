@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33476'
     url: http://www.gutenberg.org/2009/agents/33476
     wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Anthony
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/63
     wikipedia: https://en.wikipedia.org/wiki/Anthony_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74486#Zendan-vanki
 gutenberg_issued: '2024-09-27'
 gutenberg_type: Text
 identifiers:
